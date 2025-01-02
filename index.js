@@ -1,5 +1,5 @@
 const audioMap = {
-    w : new Audio('https://github.com/Nevyin32/Virtual_Piano/tree/main/mp3Notesc3.mp3'),
+    w : new Audio('https://github.com/Nevyin32/Virtual_Piano/tree/main/mp3Notesc3.mp3?raw=true'),
     3 : new Audio('https://github.com/Nevyin32/Virtual_Piano/tree/main/mp3Notesc-3.mp3'),
     e : new Audio('https://github.com/Nevyin32/Virtual_Piano/tree/main/mp3Notesd3.mp3'),
     4 : new Audio('https://github.com/Nevyin32/Virtual_Piano/tree/main/mp3Notesd-3.mp3'),
